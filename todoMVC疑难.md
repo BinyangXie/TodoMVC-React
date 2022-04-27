@@ -2,4 +2,4 @@
 
 ## HOOK-useState-setState
 
-setState后无法获得最新的state值，即异步更新问题
+setState后无法获得最新的state值，即异步更新
